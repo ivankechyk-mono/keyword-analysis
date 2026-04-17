@@ -1,5 +1,5 @@
 # Google Ads API
-google-ads==30.0.0
+google-ads==24.1.0
 google-auth==2.29.0
 google-auth-oauthlib==1.2.0
 google-auth-httplib2==0.2.0
