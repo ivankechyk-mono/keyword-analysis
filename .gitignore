@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+monobank-keyword-bc4708f6da29.json
+client_secret_*.json
+data/
